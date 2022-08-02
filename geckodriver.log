@@ -1,0 +1,139 @@
+1659190515451	geckodriver	INFO	Listening on 127.0.0.1:47507
+1659190826701	geckodriver	INFO	Listening on 127.0.0.1:38181
+1659190895633	geckodriver	INFO	Listening on 127.0.0.1:39461
+1659190895649	mozrunner::runner	INFO	Running command: "/home/ttran/web_scraping_bandcamp/firefox/application.ini" "--marionette" "-headless" "--remote-debugging-port" "42381" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSEGWOL"
+1659191026125	geckodriver	INFO	Listening on 127.0.0.1:37183
+1659191026664	mozrunner::runner	INFO	Running command: "/home/ttran/web_scraping_bandcamp/firefox/firefox" "--marionette" "-headless" "--remote-debugging-port" "45417" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiler68bw3"
+XPCOMGlueLoad error for file /home/ttran/web_scraping_bandcamp/firefox/libxul.so:
+libdbus-glib-1.so.2: cannot open shared object file: No such file or directory
+Couldn't load XPCOM.
+1659191196841	geckodriver	INFO	Listening on 127.0.0.1:48553
+1659217308929	geckodriver	INFO	Listening on 127.0.0.1:50707
+1659217309466	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "--marionette" "--remote-debugging-port" "42755" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenss8Wc"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659217312638	Marionette	INFO	Marionette enabled
+1659217312653	Marionette	INFO	Listening on port 40869
+WebDriver BiDi listening on ws://localhost:42755
+Read port: 40869
+1659217313947	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenss8Wc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42755/devtools/browser/22ae0cb4-fd5c-4215-95ae-b1ca4cf83c64
+1659217326836	Marionette	INFO	Stopped listening on port 40869
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659404460534	geckodriver	INFO	Listening on 127.0.0.1:49919
+1659404460555	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "--marionette" "--remote-debugging-port" "58783" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDv4h2d"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659404464443	Marionette	INFO	Marionette enabled
+1659404464451	Marionette	INFO	Listening on port 38893
+WebDriver BiDi listening on ws://localhost:58783
+Read port: 38893
+1659404466446	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDv4h2d/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58783/devtools/browser/89b2608b-bc88-4a04-a6d7-70196248f3da
+1659404480998	Marionette	INFO	Stopped listening on port 38893
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659455538742	geckodriver	INFO	Listening on 127.0.0.1:49847
+1659455539285	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "38309" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileoV7ARp"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659455541266	Marionette	INFO	Marionette enabled
+1659455541279	Marionette	INFO	Listening on port 38049
+WebDriver BiDi listening on ws://localhost:38309
+Read port: 38049
+1659455542962	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoV7ARp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38309/devtools/browser/261e25c9-67ce-4eb9-aabe-7151fcaff8dd
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://duckduckgo.com"
+1659455887752	geckodriver	INFO	Listening on 127.0.0.1:39911
+1659455888290	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "53319" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFhixxS"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659455889311	Marionette	INFO	Marionette enabled
+1659455889334	Marionette	INFO	Listening on port 33153
+WebDriver BiDi listening on ws://localhost:53319
+Read port: 33153
+1659455890935	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFhixxS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53319/devtools/browser/62408b7e-0da6-490d-97bf-f977f88ea052
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://duckduckgo.com"
+1659455943503	geckodriver	INFO	Listening on 127.0.0.1:48633
+1659455943514	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "58423" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSJAl3Y"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659455945773	Marionette	INFO	Marionette enabled
+1659455945778	Marionette	INFO	Listening on port 36613
+WebDriver BiDi listening on ws://localhost:58423
+Read port: 36613
+1659455946778	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSJAl3Y/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58423/devtools/browser/4060f228-4e36-40ca-aa59-ba455c58339d
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://duckduckgo.com"
+1659459441237	geckodriver	INFO	Listening on 127.0.0.1:50685
+1659459441259	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "45901" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileoVSpZe"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659459442393	Marionette	INFO	Marionette enabled
+1659459442399	Marionette	INFO	Listening on port 37453
+WebDriver BiDi listening on ws://localhost:45901
+Read port: 37453
+1659459443863	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoVSpZe/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45901/devtools/browser/495ae687-4df5-46bb-af66-84937908ffeb
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://duckduckgo.com"
+1659459450866	Marionette	INFO	Stopped listening on port 37453
+1659459619202	geckodriver	INFO	Listening on 127.0.0.1:50835
+1659459619231	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "58159" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileUTfXoe"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659459619938	Marionette	INFO	Marionette enabled
+1659459619944	Marionette	INFO	Listening on port 33527
+WebDriver BiDi listening on ws://localhost:58159
+Read port: 33527
+1659459620843	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUTfXoe/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58159/devtools/browser/97d69077-a111-4786-a364-9bae98ce5642
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://duckduckgo.com"
+1659459627226	Marionette	INFO	Stopped listening on port 33527
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 694: TypeError: this.tablesData[table] is undefined
+1659459965654	geckodriver	INFO	Listening on 127.0.0.1:50519
+1659459966202	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "33393" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFa7mhI"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659459967223	Marionette	INFO	Marionette enabled
+1659459967234	Marionette	INFO	Listening on port 41027
+WebDriver BiDi listening on ws://localhost:33393
+Read port: 41027
+1659459968199	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFa7mhI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33393/devtools/browser/c1b99bac-6391-40f3-9b9b-3bec41e64f23
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://duckduckgo.com"
+1659459974781	Marionette	INFO	Stopped listening on port 41027
+1659460342174	geckodriver	INFO	Listening on 127.0.0.1:51731
+1659460342195	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "53685" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6uxUfo"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1659460343308	Marionette	INFO	Marionette enabled
+1659460343325	Marionette	INFO	Listening on port 41075
+WebDriver BiDi listening on ws://localhost:53685
+Read port: 41075
+1659460344576	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6uxUfo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53685/devtools/browser/ad34ead5-0cc3-4713-95db-b1d4f08b9e9e
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://duckduckgo.com"
+1659460352478	Marionette	INFO	Stopped listening on port 41075
